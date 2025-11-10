@@ -8,7 +8,7 @@ This is a straightforward utility built in Java to perform fundamental statistic
  * Average Price Calculation: Computes the arithmetic mean of all stock prices in the dataset.
  * Maximum Price Identification: Efficiently finds the highest recorded price within the array.
  * Occurrence Counting: Determines exactly how many times a specific target price appeared in the trading history.
- * Cumulative Sum (Running Total): Generates a new list (using ArrayList) that tracks the running total of prices—a classic data processing task.
+ * Cumulative Sum (Running Total): Generates a new list (using ArrayList) that tracks the running total of prices a classic data processing task.
 
 
 ⚙️ How to Use It: 
